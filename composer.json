@@ -1,5 +1,5 @@
 {
-	"name": "badasswp/convert-blocks-to-json",
+	"name": "aw-ng/convert-blocks-to-json",
 	"description": "Convert your WP blocks to JSON.",
 	"type": "wordpress-plugin",
 	"license": "GPL-2.0-or-later",
